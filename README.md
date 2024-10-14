@@ -18,7 +18,6 @@ The dataset contains 7,043 samples with 20 features, including various customer 
    - Descriptive analysis of the data, including basic statistical metrics like mean, median, and distribution.
    - Examining the relationship between variables and churn rates.
 
-
 2. **Data Preprocessing**
    - Handling missing values.
    - Handling outliers.
@@ -28,7 +27,6 @@ The dataset contains 7,043 samples with 20 features, including various customer 
    - Utilizing a XGBoost model to train the data.
    - Evaluating the model using metrics such as accuracy, F1_score, Recall score, Precision Score and Cross Val Score.
 
-
 ## Results
 ![Model Performance](https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Model%20Performance.jpg)
 
@@ -37,8 +35,6 @@ The dataset contains 7,043 samples with 20 features, including various customer 
 <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Top%20Feature%20Importance.jpg" alt="Top Feature Importance" width="400"/>
 </div>
-
-
 ---
 
 ## How to View
