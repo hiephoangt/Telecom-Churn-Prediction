@@ -8,7 +8,9 @@ The dataset contains 7,043 samples with 20 features, including various customer 
 
 ### Churn Distribution
 
-![Churn Distribution](https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Churn%20Distribution.jpg)
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Churn%20Distribution.jpg" alt="Churn Distribution" width="400"/>
+</div>
 
 ### Data Analysis
 
@@ -27,19 +29,19 @@ The dataset contains 7,043 samples with 20 features, including various customer 
    - Evaluating the model using metrics such as accuracy, F1_score, Recall score, Precision Score and Cross Val Score.
 
 
-## Results and Insights
+## Results
+![Model Performance](https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Model%20Performance.jpg)
 
-- The model identifies which variables significantly influence churn likelihood, helping the company make informed decisions.
-- Based on the analysis results, high-risk customer segments can be identified for targeted retention strategies.
+**Here is visualization of the features that significantly influence churn:**
 
-![Model Performance](images/model_performance.png)
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/hiephoangt/Telecom-Churn-Prediction/main/Image/Top%20Feature%20Importance.jpg" alt="Top Feature Importance" width="400"/>
+</div>
 
-## Conclusion
-
-The project demonstrates that data analysis and churn prediction can provide valuable insights for the telecommunications industry. Companies can leverage this information to enhance services and improve customer experiences.
 
 ---
 
-### Contact
+## How to View
+To view the Jupyter Notebook containing the analysis, you can access the raw file using the link below:
 
-If you have any questions, please reach out via [your email].
+[Telecom Churn Prediction Notebook](https://github.com/hiephoangt/Telecom-Churn-Prediction/blob/main/Telecom_Churn_Prediction.ipynb)
